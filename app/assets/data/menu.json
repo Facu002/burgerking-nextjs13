@@ -1,0 +1,326 @@
+{
+  "menu": {
+    "Desmechada King": [
+      {
+        "id": 1,
+        "name": "Desmechada Alioli",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/alioli.png"
+      },
+      {
+        "id": 2,
+        "name": "Desmechada Spicy",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/spicy.png"
+      }
+    ],
+    "Carne a la parrilla": [
+      {
+        "id": 3,
+        "name": "Provo King Doble Carne",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Provoking-carne.png"
+      },
+      {
+        "id": 4,
+        "name": "WhopperⓇ Doble con Queso",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Armado-whopper-doble-con-queso.png"
+      },
+      {
+        "id": 5,
+        "name": "Whopper Guacamole",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_Whopper-Guacamole_1200X900_210922.png"
+      },
+      {
+        "id": 6,
+        "name": "Cheese onion doble",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WB_CHEESEONIONDOBLE_1200X800_140922.png"
+      },
+      {
+        "id": 7,
+        "name": "Doble Cuarto XL",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_DOBLE-CUARTO-XL_1200X800_020822.png"
+      },
+      {
+        "id": 8,
+        "name": "Doble Napolitano XL",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/DobleNapolitano-XL-1.png"
+      },
+      {
+        "id": 9,
+        "name": "Hamburguesa clásica",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_HAMBURGUESA-CLASICA_1200X800_020822.png"
+      },
+      {
+        "id": 10,
+        "name": "Hamburguesa con queso",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Hamburguesa-con-Queso.png"
+      },
+      {
+        "id": 11,
+        "name": "Stacker Doble",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Stacker-Doble.png"
+      },
+      {
+        "id": 12,
+        "name": "Stacker Triple",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Stacker-Triple.png"
+      },
+      {
+        "id": 13,
+        "name": "Stacker Cuádruple",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Stacker-Cuadruple.png"
+      },
+      {
+        "id": 14,
+        "name": "Stacker Quíntuple",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/04/stacker-quintuple.png"
+      },
+      {
+        "id": 15,
+        "name": "Whopper",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Whopper.png"
+      },
+      {
+        "id": 16,
+        "name": "Whopper Doble",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_WHOPER-DOBLE-_1200X800_020822.png"
+      },
+      {
+        "id": 17,
+        "name": "Doble JyQ XL",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Doble-Jamon-y-Queso-XL.png"
+      }
+    ],
+    "Melt de carne doble": [
+      {
+        "id": 18,
+        "name": "Melt de carne doble con salsa Spicy",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/MELT-SALSA-SPICY.png"
+      },
+      {
+        "id": 19,
+        "name": "Melt de carne doble con salsa Stacker",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/MELT-SALSA-STACKER.png"
+      }
+    ],
+    "Bondiolita King": [
+      {
+        "id": 20,
+        "name": "Bondiolita King Pickle Pepino",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BondiolitaKing-pepino.png"
+      },
+      {
+        "id": 21,
+        "name": "Bondiolita King Morrón Salteado",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BondiolitaKing-morron.png"
+      }
+    ],
+    "De Pollo": [
+      {
+        "id": 22,
+        "name": "King de Pollo Guacamole",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_King-de-Pollo-Guacamole_1200X900_210922.png"
+      },
+      {
+        "id": 23,
+        "name": "Crispy chicken",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Crispy-Chicken.png"
+      },
+      {
+        "id": 24,
+        "name": "King de pollo",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_KING-DE-POLLO_1200X800_240822.png"
+      }
+    ],
+    "Vegetal": [
+      {
+        "id": 25,
+        "name": "Nuggets Vegetales",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_SEPTIEMBRE_MENU_NUGGETS-PLANT-BASE_270922_1200x800_.png"
+      },
+      {
+        "id": 26,
+        "name": "King vegetal",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/King-de-Pollo_2604.png"
+      },
+      {
+        "id": 27,
+        "name": "Whopper vegetal",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/WhopperVegetal_2604.png"
+      }
+    ],
+    "Ensaladas": [
+      {
+        "id": 28,
+        "name": "Ensalada de Atún",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK1543_Final.png"
+      },
+      {
+        "id": 29,
+        "name": "Ensalada Caesar con pollo",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/04/ensaladacaesar.png"
+      }
+    ],
+    "Acompañamientos": [
+      {
+        "id": 30,
+        "name": "Muzzarella Sticks",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/foto-menu-muzzasticks.png"
+      },
+      {
+        "id": 31,
+        "name": "Balde de Nuggets",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BaldeNuggets.png"
+      },
+      {
+        "id": 32,
+        "name": "Balde de Papas",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BaldePapas.png"
+      },
+      {
+        "id": 33,
+        "name": "Aros de cebolla",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/02/aros-de-cebolla-mediano.png"
+      },
+      {
+        "id": 34,
+        "name": "Nuggets",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/02/nuggets-x10.png"
+      },
+      {
+        "id": 35,
+        "name": "Papas Cheddar",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Papas-Cheddar.png"
+      },
+      {
+        "id": 36,
+        "name": "Papas Cheddar Bacon",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Papas-Cheddar-y-Bacon.png"
+      },
+      {
+        "id": 37,
+        "name": "Papas Fritas",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/02/PAPAS-KING.png"
+      }
+    ],
+    "Desayunos y Meriendas": [
+      {
+        "id": 38,
+        "name": "Tostado jamón y queso en pan de molde",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/tostado-jamon-queso.png"
+      },
+      {
+        "id": 39,
+        "name": "Tostado 3 quesos",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/tostado-3-quesos.png"
+      },
+      {
+        "id": 40,
+        "name": "Waffle provolone",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Waffle-provolone@4x.png"
+      },
+      {
+        "id": 41,
+        "name": "Waffle con dulce de leche",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/waffle-con-ddl@4x.png"
+      },
+      {
+        "id": 42,
+        "name": "Waffle con jamón y queso",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Waffle-jamo%CC%81n-y-queso@4x.png"
+      },
+      {
+        "id": 43,
+        "name": "Café con Leche",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_CAFE-CON-LECHE_1200X800_240123.png"
+      },
+      {
+        "id": 44,
+        "name": "Capuccino",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/CAPUCCINO.png"
+      },
+      {
+        "id": 45,
+        "name": "Café",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_-CAFE_1200X800_240123.png"
+      },
+      {
+        "id": 46,
+        "name": "Cortado",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_CORTADO_1200X800_240123.png"
+      },
+      {
+        "id": 47,
+        "name": "Lágrima",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_LAGRIMA_1200X800_240123.png"
+      },
+      {
+        "id": 48,
+        "name": "Brownie",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Brownie.png"
+      },
+      {
+        "id": 49,
+        "name": "Tostado de jamón y queso",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_TOSTADO-DE-JAMON-Y-QUESO-_1200X800_020822.png"
+      },
+      {
+        "id": 50,
+        "name": "Medialuna",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_MEDIALUNA_1200X800_020822.png"
+      },
+      {
+        "id": 51,
+        "name": "Churros",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/ChurrosDDL.png"
+      }
+    ],
+    "Niños": [
+      {
+        "id": 52,
+        "name": "Combo con hamburguesa con queso",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_CAJA-MAGICA-CON-HAMBURGUESA-CON-QUESO_1200X800_020822.png"
+      },
+      {
+        "id": 53,
+        "name": "Combo con nuggets x4",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/04/nuggets-x4-cajita.png"
+      }
+    ],
+    "Postre": [
+      {
+        "id": 54,
+        "name": "King Mix XL Cookie",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_King-mix-xl-cookie_1200X800_240123_.png"
+      },
+      {
+        "id": 55,
+        "name": "King Mix Jr Cookie",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_King-mix-xl-cookie_1200X800_240123_.png"
+      },
+      {
+        "id": 56,
+        "name": "King Mix Brownie",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/King-Mix-Brownie.png"
+      },
+      {
+        "id": 57,
+        "name": "Sundae de frutilla",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_SUNDAE-FRUTILLA-_1200X800_020822-1.png"
+      },
+      {
+        "id": 58,
+        "name": "Sundae de dulce de leche",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_SUNDAE-DULCE-DE-LECHE-_1200X800_020822-1.png"
+      },
+      {
+        "id": 59,
+        "name": "Sundae de chocolate",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_SUNDAE-CHOCO-_1200X800_020822.png"
+      },
+      {
+        "id": 60,
+        "name": "Super Cono",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_SUPER-CONO_1200X800_020822.png"
+      }
+    ]
+  }
+}
