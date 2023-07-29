@@ -1,10 +1,10 @@
-import styles from '../page.module.css'
+import styles from './menu.module.css'
+import FoodTypeContainer from './FoodTypeContainer'
 
-export default function Menu(){
+    export default async function Menu(){
     return(
         <div className={styles.main}>
-
-            <h1>Menu</h1>
+            <FoodTypeContainer></FoodTypeContainer>
         </div>
     )
 }
