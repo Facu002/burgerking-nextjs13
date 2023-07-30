@@ -5,12 +5,16 @@ import Link from 'next/link';
 interface Item {
     id: number;
     name: string;
+    categoryName: string;
+    productName: string;
     image: string;
+    productDescription: string;
 }
 
 interface Category {
     id: number;
     name: string;
+    categoryName: string;
     content: Item[];
 }
 
@@ -25,7 +29,7 @@ export default function FoodTypeContainer(props : any) {
 
                     <div className={styles.category_products__content}>
                         {category.content.map((item: any) => (
-                            <Link href={`./menu/${item.name}`} key={item.id} className={styles.category_products}>
+                            <Link href={`./menu/${item.categoryName}/${item.productName}`} key={item.id} className={styles.category_products}>
                                 <div className={styles.ImageContainer}>
                                     <Image width={500} height={500} className={styles.Image} src={item.image} alt={item.name} />
                                 </div>
