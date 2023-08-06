@@ -48,7 +48,7 @@ export default function menuWithId({params}: any) {
         <div className={styles.Product_info_container}>
             {/* <h1>menu with id : {productName}</h1> */}
             {filteredObjects.map((obj:any) => (
-                <div className={styles.ok} key={obj.id}>
+                <div className={styles.Product_info_container__contentWrap} key={obj.id}>
 
                     <ul className={styles.miniNav}>
                         <li><Link href={'/'}>Home</Link></li>
