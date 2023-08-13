@@ -23,15 +23,6 @@ const categories: Category[] = menuData;
 
 export default function menuWithId({params}: any) {
     let productName = params.names[1];
-    // console.log(productName)
-    // console.log(categories);
-    
-    // let filteredProduct = categories.filter(function (el) {
-    //     // console.log(el.categoryName);
-    //     let ok = productName
-    //     el.categoryName == productName ? console.log(ok)
-    //     : console.log('nono')
-    // })
 
     // Function to filter and obtain all properties of the nested object
     function filterAndGetProperties(categories : any, productNameToFilter : any) {

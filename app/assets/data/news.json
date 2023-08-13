@@ -1,0 +1,125 @@
+[
+    {
+        "id": 1,
+        "name": "¡Camisa y zapas de running re va!",
+        "urlName": "camisa-y-zapas-de-running",
+        "moreInfo":"",
+        "description": "Bajate la App de Burger King y participá por un 30%OFF en este combo. Y apurate porque el portal se cierra.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/MG-The-Witcher-1200x800-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "100% SABOR",
+        "urlName": "100-sabor",
+        "moreInfo":"",
+        "description": "Descubrí nuestros platos hechos con vegetales frescos y los condimentos más ricos. ¡Una experiencia 100% sabrosa que te va a sorprender!",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/230519_Banner-Home-Arg_b_novedades.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hora de Waffles",
+        "urlName": "hora-de-waffles",
+        "moreInfo":"",
+        "description": "Un momento único para deleitarte con los wafflesdulces y salados más deliciosos. Esponjosos, sabrosos, irresistibles.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/230519_Banner-Home-Arg_d_novedades.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Nuevos Melts",
+        "urlName": "nuevos-melts",
+        "moreInfo":"",
+        "description": "Crujiente y tostado por fuera, con un relleno cremoso y derretido en su interior. ¡Una burga que te va a derretir de placer!",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/230519_Banner-Home-Arg_c_novedades.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Comida Real",
+        "urlName": "comida-real",
+        "moreInfo":"Enterate más en https://burgerkingcomidareal.com.ar/",
+        "description": "Al igual que las familias de hoy en BK no buscamos ser perfectos sino reales. Por eso, nuestra comida es 100% real, libre de conservantes, colorantes y saborizantes artificiales. Comida para no caretearla.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/230519_Banner-Home-Arg_a_novedades.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nueva Demechada King",
+        "urlName": "nueva-demechada-king",
+        "moreInfo":"",
+        "description": "La nueva Desmechada King, además de no tener colorantes, conservantes, ni saborizantes artificiales, se corta con cuchara.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/APP_WEB_DIGITAL-BANNER-APP_1200x800-safe-zone-1200x-700.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Madres, padres, esos.",
+        "urlName": "madres-padres",
+        "moreInfo":"",
+        "description": "Pensando en darles algo que les guste, pero que sea comida de verdad también: Sin conservantes, colorantes, ni saborizantes artificiales. Que esperas para venir? Perdón, traerlos!",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina/home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Digital-Banner-App-1200-x-800.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Nuevos Nuggets Vegetales",
+        "urlName": "nuggets-vegetales",
+        "moreInfo":"",
+        "description": "Son plant based, pero con un gustito a pollo. Podés pedirlos de a 5 o si estás manija también de a 10.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-bk-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/BK_WEB_SEPTIEMBRE_NUGGETS-PLANT-BASE_NOVEDADES__Mesa-de-trabajo-1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nueva King Vegetal",
+        "urlName": "king-vegetal",
+        "moreInfo":"Vas a entrarle como al King de Pollo 😮 ni vas a notar la diferencia 👌🏻",
+        "description": "Llegó una nueva opción vegetal 100% sabor a pollo 🤟🏻0% pollo.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/NovedadesBanner_KINGVEGETAL.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ahora tus combos podés acompañarlos con BIRRITA",
+        "urlName": "combos-cerveza",
+        "moreInfo":"",
+        "description": "Disfrutá tus productos fav con una cervecita bien fría.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Novedades-Budweiser.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Sumate a mi BK",
+        "urlName": "sumate-a-bk-app",
+        "moreInfo":"Descargando la app o a través de nuestra web: por cada compra, acumulás coronas para canjear por el producto que más te guste. SUMATE A MI BK. ",
+        "description": "Para vos manija!! Salen esas burgas GRATIS. ",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/5/Novedades-MiBK.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "NUEVA WHOPPER® VEGETAL: 0% CARNE, 100% WHOPPER®",
+        "urlName": "whopper-vegetal",
+        "moreInfo":"Ah y obviamente: 100% A LA PARRI.",
+        "description": "A partir del 10 de Septiembre de 2021, en BURGER KING® Argentina incorporamos la nueva Whopper® Vegetal, 0% carne, y 100% Whopper®, el match perfecto entre el clásico sabor a la parrilla de la Whopper® y los nuevos hábitos de consumo de nuestros fanáticos.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/3-2_WhopperVeg_v1.jpg"
+    },
+
+    {
+        "id": 13,
+        "name": "BK AL AUTO!",
+        "urlName": "bk-auto",
+        "moreInfo":"Ingresá en nuestra APP y pedí tus combos fav para llevar con BK al AUTO. Elegí cuándo querés pasar a buscar tu pedido y estacioná tu auto en las plazas exclusivas. Cuando llegues, notificanos por la APP que ya estás esperando para que nos acerquemos a llevarte tu pedido. Y LEEESTO! Probá una nueva forma más segura y sencilla de comer lo que más te gusta cuando y como vos querés.",
+        "description": "En BK tenemos todo para que pidas mucho más fácil y rápido.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/06/BK-AL-AUTO-10.jpg"
+    },
+    {
+        "id": 14,
+        "name": "WHOPPER",
+        "urlName": "whooper",
+        "moreInfo":"Argentina, Abril de 2021 – BURGER KING® se caracteriza por la calidad de sus productos y la Whopper® es su emblema. Con el objetivo de lograr que al menos el 90% de sus productos sean sin conservantes, colorantes ni saborizantes artificiales, presenta la versión renovada de esta hamburguesa con estas características.",
+        "description": "La hamburguesa insignia de BURGER KING® se renueva para ofrecer este producto sin conservantes, colorantes ni saborizantes artificiales.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/04/Landing_Novedades_Whopper.jpg"
+    },
+
+    {
+        "id": 15,
+        "name": "BURGER KING® x Undead",
+        "urlName": "undead-bk",
+        "moreInfo":"Argentina, abril 2021 – BURGER KING® Argentina, anuncia su alianza con Undead, un club profesional de esports, del cual será sponsor. El objetivo es brindar a sus fanáticos nuevas experiencias, y una forma distinta de vivir la marca.",
+        "description": "La marca reconocida por sus hamburguesas 100% carne a la parrilla se une al equipo profesional de esports, con el objetivo de brindar a sus fanáticos nuevas experiencias, y una nueva forma de vivir Burger King.",
+        "image": "https://s3-eu-central-1.amazonaws.com/www.burgerking.com.ar.v2/wp-media-folder-burger-king-argentina//home/ubuntu/wordpress/web/app/uploads/sites/5/2021/04/Banners_Novedades_01.jpg"
+    }
+]
