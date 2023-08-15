@@ -54,8 +54,7 @@ export default function menuWithId({params}: any) {
                         <h2>{obj.name}</h2>
                         <p>{obj.productDescription}</p>
                     </div>
-                    {/* <p>Category: {obj.categoryName}</p> */}
-                    {/* <p>Product Name: {obj.productName}</p> */}
+                    
                 </div>
             ))}
         </div>
