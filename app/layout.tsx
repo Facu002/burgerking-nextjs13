@@ -23,6 +23,10 @@ const Links = [
   {
     label : 'Menu',
     route : '/menu'
+  },
+  {
+    label : 'Restaurantes',
+    route : '/locations'
   }
 ]
 

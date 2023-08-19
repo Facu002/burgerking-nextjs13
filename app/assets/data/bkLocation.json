@@ -1,0 +1,1079 @@
+[
+        {
+            "name": "Buenos Aires",
+            "urlName": "buenos-aires",
+            "satImage": "",
+            "cities": [
+            {
+                "name": "Buenos Aires",
+                "urlName": "buenos-aires",
+                "localidades": [
+                    {
+                        "name": "Microcentro",
+                        "coordinates": [
+                            { "lat": -34.601720, "lon": -58.374540 }
+                        ]
+                    },
+                    {
+                        "name": "Palermo",
+                        "coordinates": [
+                            { "lat": -34.588868, "lon": -58.430432 }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "La Plata",
+                "urlName": "la-plata",
+                "localidades": [
+                    {
+                        "name": "Centro",
+                        "coordinates": [
+                            { "lat": -34.920895, "lon": -57.956361 }
+                        ]
+                    },
+                    {
+                        "name": "Los Hornos",
+                        "coordinates": [
+                            { "lat": -34.910605, "lon": -57.939135 }
+                        ]
+                    }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "Catamarca",
+            "urlName": "catamarca",
+            "satImage": "",
+            "cities": [
+            {
+                "name": "San Fernando del Valle de Catamarca",
+                "urlName": "san-fernando-del-valle-de-catamarca",
+                "localidades": [
+                {
+                    "name": "Centro",
+                    "coordinates": {
+                    "latitud": -28.469598,
+                    "longitud": -65.784049
+                    }
+                },
+                {
+                    "name": "Barrio Norte",
+                    "coordinates": {
+                    "latitud": -28.459369,
+                    "longitud": -65.790305
+                    }
+                }
+                ]
+            },
+            {
+                "name": "Andalgalá",
+                "urlName": "andalgala",
+                "localidades": [
+                {
+                    "name": "Centro",
+                    "coordinates": {
+                    "latitud": -27.586934,
+                    "longitud": -66.310235
+                    }
+                },
+                {
+                    "name": "El Rodeo",
+                    "coordinates": {
+                    "latitud": -27.557107,
+                    "longitud": -66.281370
+                    }
+                }
+                ]
+            }
+            ]
+        },
+        {
+        "name": "Córdoba",
+        "urlName": "cordoba",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Córdoba",
+            "urlName": "cordoba",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -31.416548,
+                    "longitud": -64.186710
+                }
+                },
+                {
+                "name": "Nueva Córdoba",
+                "coordinates": {
+                    "latitud": -31.424010,
+                    "longitud": -64.183982
+                }
+                }
+            ]
+            },
+            {
+            "name": "Villa María",
+            "urlName": "villa-maria",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -32.407614,
+                    "longitud": -63.240091
+                }
+                },
+                {
+                "name": "Villa Nueva",
+                "coordinates": {
+                    "latitud": -32.414095,
+                    "longitud": -63.225664
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Mendoza",
+        "urlName": "mendoza",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Mendoza",
+            "urlName": "mendoza",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -32.889458,
+                    "longitud": -68.845838
+                }
+                },
+                {
+                "name": "Godoy Cruz",
+                "coordinates": {
+                    "latitud": -32.925832,
+                    "longitud": -68.872160
+                }
+                }
+            ]
+            },
+            {
+            "name": "San Rafael",
+            "urlName": "san-rafael",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -34.617673,
+                    "longitud": -68.331542
+                }
+                },
+                {
+                "name": "Villa Atuel",
+                "coordinates": {
+                    "latitud": -34.620914,
+                    "longitud": -68.268400
+                }
+                }
+            ]
+            }
+        ]
+        }, 
+        {
+        "name": "Santa Fe",
+        "urlName": "santa-fe",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Rosario",
+            "urlName": "rosario",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -32.951011,
+                    "longitud": -60.651053
+                }
+                },
+                {
+                "name": "Fisherton",
+                "coordinates": {
+                    "latitud": -32.918462,
+                    "longitud": -60.732298
+                }
+                }
+            ]
+            },
+            {
+            "name": "Santa Fe",
+            "urlName": "santa-fe",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -31.634308,
+                    "longitud": -60.697719
+                }
+                },
+                {
+                "name": "Rincón",
+                "coordinates": {
+                    "latitud": -31.631485,
+                    "longitud": -60.705903
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Tucumán",
+        "urlName": "tucuman",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "San Miguel de Tucumán",
+            "urlName": "san-miguel-de-tucuman",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -26.818611,
+                    "longitud": -65.217590
+                }
+                },
+                {
+                "name": "Yerba Buena",
+                "coordinates": {
+                    "latitud": -26.821948,
+                    "longitud": -65.310597
+                }
+                }
+            ]
+            },
+            {
+            "name": "Tafí del Valle",
+            "urlName": "tafi-del-valle",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -26.851040,
+                    "longitud": -65.709200
+                }
+                },
+                {
+                "name": "El Mollar",
+                "coordinates": {
+                    "latitud": -26.873814,
+                    "longitud": -65.668550
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Misiones",
+        "urlName": "misiones",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Posadas",
+            "urlName": "posadas",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -27.362137,
+                    "longitud": -55.900817
+                }
+                },
+                {
+                "name": "Itaembé Miní",
+                "coordinates": {
+                    "latitud": -27.366599,
+                    "longitud": -55.872690
+                }
+                }
+            ]
+            },
+            {
+            "name": "Puerto Iguazú",
+            "urlName": "puerto-iguazu",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -25.597553,
+                    "longitud": -54.578732
+                }
+                },
+                {
+                "name": "Zona de Selva",
+                "coordinates": {
+                    "latitud": -25.600165,
+                    "longitud": -54.585240
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Salta",
+        "urlName": "salta",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Salta",
+            "urlName": "salta",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -24.782076,
+                    "longitud": -65.412673
+                }
+                },
+                {
+                "name": "Barrio Tres Cerritos",
+                "coordinates": {
+                    "latitud": -24.773374,
+                    "longitud": -65.423926
+                }
+                }
+            ]
+            },
+            {
+            "name": "Cafayate",
+            "urlName": "cafayate",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -26.076493,
+                    "longitud": -65.975637
+                }
+                },
+                {
+                "name": "Bodega El Esteco",
+                "coordinates": {
+                    "latitud": -26.072011,
+                    "longitud": -65.971440
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "San Juan",
+        "urlName": "san-juan",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "San Juan",
+            "urlName": "san-juan",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -31.536810,
+                    "longitud": -68.536273
+                }
+                },
+                {
+                "name": "Rivadavia",
+                "coordinates": {
+                    "latitud": -31.537274,
+                    "longitud": -68.525115
+                }
+                }
+            ]
+            },
+            {
+            "name": "Barreal",
+            "urlName": "barreal",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -31.654546,
+                    "longitud": -69.505673
+                }
+                },
+                {
+                "name": "Villa Mercedes",
+                "coordinates": {
+                    "latitud": -31.663332,
+                    "longitud": -69.493940
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Jujuy",
+        "urlName": "jujuy",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "San Salvador de Jujuy",
+            "urlName": "san-salvador-de-jujuy",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -24.185317,
+                    "longitud": -65.299642
+                }
+                },
+                {
+                "name": "Bajo La Viña",
+                "coordinates": {
+                    "latitud": -24.191425,
+                    "longitud": -65.289249
+                }
+                }
+            ]
+            },
+            {
+            "name": "Purmamarca",
+            "urlName": "purmamarca",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -23.741940,
+                    "longitud": -65.497688
+                }
+                },
+                {
+                "name": "Cerro de los Siete Colores",
+                "coordinates": {
+                    "latitud": -23.741373,
+                    "longitud": -65.500770
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "La Pampa",
+        "urlName": "la-pampa",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Santa Rosa",
+            "urlName": "santa-rosa",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -36.620689,
+                    "longitud": -64.291888
+                }
+                },
+                {
+                "name": "Barrio Oeste",
+                "coordinates": {
+                    "latitud": -36.620346,
+                    "longitud": -64.299914
+                }
+                }
+            ]
+            },
+            {
+            "name": "General Pico",
+            "urlName": "general-pico",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -35.664124,
+                    "longitud": -63.752340
+                }
+                },
+                {
+                "name": "Barrio Este",
+                "coordinates": {
+                    "latitud": -35.662978,
+                    "longitud": -63.742281
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Neuquén",
+        "urlName": "neuquen",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Neuquén",
+            "urlName": "neuquen",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -38.949381,
+                    "longitud": -68.065071
+                }
+                },
+                {
+                "name": "Barrio Norte",
+                "coordinates": {
+                    "latitud": -38.944923,
+                    "longitud": -68.060187
+                }
+                }
+            ]
+            },
+            {
+            "name": "San Martín de los Andes",
+            "urlName": "san-martin-de-los-andes",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -40.160932,
+                    "longitud": -71.355906
+                }
+                },
+                {
+                "name": "Chapelco",
+                "coordinates": {
+                    "latitud": -40.159347,
+                    "longitud": -71.354409
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "San Luis",
+        "urlName": "san-luis",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "San Luis",
+            "urlName": "san-luis",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -33.298786,
+                    "longitud": -66.336031
+                }
+                },
+                {
+                "name": "La Ribera",
+                "coordinates": {
+                    "latitud": -33.299760,
+                    "longitud": -66.339564
+                }
+                }
+            ]
+            },
+            {
+            "name": "Villa Mercedes",
+            "urlName": "villa-mercedes",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -33.671937,
+                    "longitud": -65.459632
+                }
+                },
+                {
+                "name": "Bajo Los Molles",
+                "coordinates": {
+                    "latitud": -33.687176,
+                    "longitud": -65.471120
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Río Negro",
+        "urlName": "rio-negro",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Viedma",
+            "urlName": "viedma",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -40.806778,
+                    "longitud": -63.004648
+                }
+                },
+                {
+                "name": "Costanera",
+                "coordinates": {
+                    "latitud": -40.811588,
+                    "longitud": -63.019534
+                }
+                }
+            ]
+            },
+            {
+            "name": "Bariloche",
+            "urlName": "bariloche",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -41.133287,
+                    "longitud": -71.310541
+                }
+                },
+                {
+                "name": "Cerro Catedral",
+                "coordinates": {
+                    "latitud": -41.147938,
+                    "longitud": -71.427113
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Formosa",
+        "urlName": "formosa",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Formosa",
+            "urlName": "formosa",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -26.185652,
+                    "longitud": -58.175744
+                }
+                },
+                {
+                "name": "Barrio 7 de Mayo",
+                "coordinates": {
+                    "latitud": -26.198462,
+                    "longitud": -58.207173
+                }
+                }
+            ]
+            },
+            {
+            "name": "Clorinda",
+            "urlName": "clorinda",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -25.286944,
+                    "longitud": -57.711078
+                }
+                },
+                {
+                "name": "Barrio San Antonio",
+                "coordinates": {
+                    "latitud": -25.296701,
+                    "longitud": -57.724136
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "La Rioja",
+        "urlName": "la-rioja",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "La Rioja",
+            "urlName": "la-rioja",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -29.413377,
+                    "longitud": -66.856243
+                }
+                },
+                {
+                "name": "Bajo Luján",
+                "coordinates": {
+                    "latitud": -29.421712,
+                    "longitud": -66.858344
+                }
+                }
+            ]
+            },
+            {
+            "name": "Chilecito",
+            "urlName": "chilecito",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -29.160363,
+                    "longitud": -67.526665
+                }
+                },
+                {
+                "name": "Nonogasta",
+                "coordinates": {
+                    "latitud": -29.155149,
+                    "longitud": -67.487319
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Tierra del Fuego",
+        "urlName": "tierra-del-fuego",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Ushuaia",
+            "urlName": "usuhaia",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -54.801912,
+                    "longitud": -68.302951
+                }
+                },
+                {
+                "name": "Barrio Andino",
+                "coordinates": {
+                    "latitud": -54.794250,
+                    "longitud": -68.322872
+                }
+                }
+            ]
+            },
+            {
+            "name": "Río Grande",
+            "urlName": "rio-grande",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -53.787959,
+                    "longitud": -67.702993
+                }
+                },
+                {
+                "name": "Barrio Chacra II",
+                "coordinates": {
+                    "latitud": -53.778684,
+                    "longitud": -67.719156
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Santiago del Estero",
+        "urlName": "santiago-del-estero",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Santiago del Estero",
+            "urlName": "santiago-del-estero",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -27.785824,
+                    "longitud": -64.265923
+                }
+                },
+                {
+                "name": "Barrio Alberdi",
+                "coordinates": {
+                    "latitud": -27.799572,
+                    "longitud": -64.256829
+                }
+                }
+            ]
+            },
+            {
+            "name": "La Banda",
+            "urlName": "la-banda",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -27.748698,
+                    "longitud": -64.265158
+                }
+                },
+                {
+                "name": "Barrio Belgrano",
+                "coordinates": {
+                    "latitud": -27.757211,
+                    "longitud": -64.250109
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Santa Cruz",
+        "urlName": "santa-cruz",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Río Gallegos",
+            "urlName": "rio-gallegos",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -51.627895,
+                    "longitud": -69.220887
+                }
+                },
+                {
+                "name": "Barrio Güemes",
+                "coordinates": {
+                    "latitud": -51.631779,
+                    "longitud": -69.235572
+                }
+                }
+            ]
+            },
+            {
+            "name": "El Calafate",
+            "urlName": "calafate",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -50.340209,
+                    "longitud": -72.266032
+                }
+                },
+                {
+                "name": "Lago Argentino",
+                "coordinates": {
+                    "latitud": -50.346322,
+                    "longitud": -72.282517
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Chaco",
+        "urlName": "chaco",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Resistencia",
+            "urlName": "resistencia",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -27.451360,
+                    "longitud": -58.986435
+                }
+                },
+                {
+                "name": "Villa Centenario",
+                "coordinates": {
+                    "latitud": -27.444047,
+                    "longitud": -58.963065
+                }
+                }
+            ]
+            },
+            {
+            "name": "Presidencia Roque Sáenz Peña",
+            "urlName": "presidencia-roque-saenz-peña",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -26.785538,
+                    "longitud": -60.438907
+                }
+                },
+                {
+                "name": "Villa San Martín",
+                "coordinates": {
+                    "latitud": -26.795132,
+                    "longitud": -60.440947
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Chubut",
+        "urlName": "chubut",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Rawson",
+            "urlName": "rawson",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -43.300717,
+                    "longitud": -65.102676
+                }
+                },
+                {
+                "name": "Playa Unión",
+                "coordinates": {
+                    "latitud": -43.306300,
+                    "longitud": -65.105628
+                }
+                }
+            ]
+            },
+            {
+            "name": "Comodoro Rivadavia",
+            "urlName": "comodoro-rivadavia",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -45.865465,
+                    "longitud": -67.478862
+                }
+                },
+                {
+                "name": "Rada Tilly",
+                "coordinates": {
+                    "latitud": -45.883298,
+                    "longitud": -67.541038
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Corrientes",
+        "urlName": "corrientes",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Corrientes",
+            "urlName": "corrientes",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -27.471011,
+                    "longitud": -58.839977
+                }
+                },
+                {
+                "name": "Barrio Camba Cuá",
+                "coordinates": {
+                    "latitud": -27.486794,
+                    "longitud": -58.828615
+                }
+                }
+            ]
+            },
+            {
+            "name": "Goya",
+            "urlName": "goya",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -29.142130,
+                    "longitud": -59.263183
+                }
+                },
+                {
+                "name": "Barrio Esperanza",
+                "coordinates": {
+                    "latitud": -29.147659,
+                    "longitud": -59.249673
+                }
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "name": "Entre Ríos",
+        "urlName": "entre-rios",
+        "satImage": "",
+        "cities": [
+            {
+            "name": "Paraná",
+            "urlName": "parana",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -31.732175,
+                    "longitud": -60.532589
+                }
+                },
+                {
+                "name": "Barrio San Martín",
+                "coordinates": {
+                    "latitud": -31.736680,
+                    "longitud": -60.537759
+                }
+                }
+            ]
+            },
+            {
+            "name": "Concordia",
+            "urlName": "concordia",
+            "localidades": [
+                {
+                "name": "Centro",
+                "coordinates": {
+                    "latitud": -31.391371,
+                    "longitud": -58.020106
+                }
+                },
+                {
+                "name": "Barrio Constitución",
+                "coordinates": {
+                    "latitud": -31.394840,
+                    "longitud": -58.027648
+                }
+                }
+            ]
+            }
+        ]
+        }
+]
