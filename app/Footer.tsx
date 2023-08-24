@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import styles from './page.module.css'
-export function Footer(params:any) {
+export function Footer() {
     return(
         <div className={styles.FooterContainer}>
             <div className={styles.footer_top}>

@@ -1,3 +1,4 @@
+'use client'
 import provinceData  from "../../assets/data/bkLocation.json";
 import Image from "next/image";
 import Link from "next/link";
@@ -39,9 +40,24 @@ export default function ProvinceSelectedComponent({params}:any) {
     
     const selectedProvince = provinceSelected.find(province => province.urlName === provinceName);
     
+    console.log(selectedProvince, provinceName, cityUrlName);
+
+    
     if (!selectedProvince) {
         return <div>Province not found</div>;
     }
+
+
+    let foundCity = null;
+
+    // Iterate through the cities array to find the matching city
+    for (const provinceCity of selectedProvince.cities) {
+        if (provinceCity.urlName === cityUrlName) {
+            foundCity = provinceCity;
+            break; // Exit loop once the city is found
+        }
+    }
+    console.log("Found City:", foundCity);
     return(
             
             <div className={styles.main}>
@@ -56,9 +72,19 @@ export default function ProvinceSelectedComponent({params}:any) {
                                     <li><Link href={'/locations'}>Restaurantes</Link></li>
                                 </ul>
                                 <div className={styles.city_list}>
+                                    <h2>{provinceName}</h2>
                                 {
-                                    selectedProvince.cities.map((city:any)=>(<h2>{city.name}</h2>))
+                                // selectedProvince.cities.map((city:any)=>(<h2 key={city.urlName}>{city.name}</h2>))
+                                    // <span>{}</span>
+                                    foundCity?.localidades.map((zona:any)=>(
+                                        <div>
+                                            <span key={zona.name}>{zona.name}</span>
+                                            <p>{zona.coordinates.latitud}</p>
+                                            <p>{zona.coordinates.longitud}</p>
+                                        </div>
+                                    ))
                                 }
+
                                 </div>
                             </div>
                             <div className={styles.map_container}>

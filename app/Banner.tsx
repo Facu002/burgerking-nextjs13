@@ -1,5 +1,5 @@
 'use client'
-import React, { useState, useEffect } from 'react';
+// import React, { useState, useEffect } from 'react';
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -13,7 +13,7 @@ import './globals.css'
 // import required modules
 import { Pagination, Navigation } from 'swiper/modules';
 
-
+import Image from 'next/image';
 export default function Banner(params:any) {
     
     return (

@@ -51,7 +51,7 @@ export default function page(params:any) {
                         <ul>
                             {
                                 provinces.map((province:any)=>(
-                                    <li><Link href={`/locations/${province.urlName}`}>{province.name}</Link></li>
+                                    <li key={province.urlName}><Link href={`/locations/${province.urlName}`}>{province.name}</Link></li>
                                 ))
                             }
                         </ul>
