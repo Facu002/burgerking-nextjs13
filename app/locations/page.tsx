@@ -59,12 +59,12 @@ export default function page(params:any) {
 
                             <div className={styles.province_list__cityContainer}>
                             {province.cities.map((city:any)=>(
-                                <div className={styles.cityInformation}>
+                                <div key={city.name} className={styles.cityInformation}>
                                     <h3>{city.name}</h3>
                                     <div className={styles.localInformation_wrapper}>
                                     {
                                     city.localidades.map((local:any)=>(
-                                    <div className={styles.localInformation}>
+                                    <div key={local.name} className={styles.localInformation}>
                                         <span>{local.name}</span>
                                         <p>{local.dir}</p>
                                         <a href={local.maps}>Abir Direccion</a>
