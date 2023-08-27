@@ -16,9 +16,8 @@
     align-self: self-start;
     font-size: 0.8rem;
     color: #50231480;
-    width: 90%;
-    border: 1px solid red;
-    margin: 0 auto;
+    width: 95%;
+    margin: 10px auto;
 
 }
 
@@ -36,50 +35,156 @@
     color: #E52500;
 }
 
+/* --------------------------- */
 .locationSettings_container{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 85vh;
-    border: 1px solid red;
-
 }
 .location_navigation_container{
-    border: 1px solid red;
-    width: 35%;
+    width: 100%;
     height: 100%;
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
 }
-.location_navigation_container .city_list{
-    margin: 10px auto;
-    width: 90%;
+.location_navigation_container .province_list{
+    /* margin: 10px auto; */
+    /* width: fit-content; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    /* min-width: 900px; */
+    width: 95%;
+
+    margin: 0 auto;
 }
-.location_navigation_container .city_list ul li{
+.province_list h2{
+    /* align-self: self-start; */
+    margin: 1rem 0;
+}
+.location_navigation_container .province_list ul .province_list__wrapper{
     list-style: none;
-    padding:20px 10px ;
-    border-radius: 10px;
-    /* border: 1px solid red; */
-    margin: 10px 0;
-    background-color: #ffff;
+    /* padding:20px 10px ; */
     font-size: 1.2rem;
     color: #502314;
     font-weight: 700;
     cursor: default;
-}
-.location_navigation_container .city_list ul li:hover{
-    outline: 2px solid red;
-}
-.location_navigation_container .city_list ul li a{
+    width: 100%;
     display: flex;
-    width: auto;
-    height: auto;
+    justify-content: center;
+    margin: 1rem 0;
+    /* align-items: self-start; */
 }
-.map_container{
-    border: 1px solid red;
-    width: 65%;
+
+
+.location_navigation_container .province_list ul .province_list__provinceContainer{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: flex-start;
+    min-width: 200px;
+    text-align: center;
+    margin: 0px 20px;
+
+}
+.province_list__provinceContainer h3{
+    background-color: #ffff;
+    padding:10px ;
+    border-radius: 10px;
+    width: 100%;
+}
+.province_list__provinceContainer img{
+    width: 125px;
+    height: auto;
+    margin-top: 10px;
+}
+.province_list__cityContainer{
+    width: fit-content;
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: space-around; */
+    width: 550px;
+}
+/* .province_list__cityContainer h3{
+    border: 1px solid red; 
+    width: 300px;
+    height: fit-content;
+    text-align: center;
+    padding: 10px;
+    background-color: #F5EBDC;
+    border-top-left-radius: 15px;
+
+} */
+.province_list__cityContainer .cityInformation h3{
+    background-color: #ffff;
+    padding:10px ;
+    border-radius: 10px;
+
+}
+.province_list__cityContainer .cityInformation{
+/* background-color: #F5EBDC; */
+    /* border: 1px solid red; */
+    width: 250px;
     height: 100%;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin:0 10px;
+    /* margin: 0 10px 0 20px; */
+
+}
+.cityInformation .localInformation_wrapper{
+    padding: 0px 10px 10px 10px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100%;
+    /* height: 200px; */
+}
+.localInformation{
+    text-align: start;
+    height: 100%;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px;
+    background-color: #50231418;
+}
+.localInformation:last-child{
+    border-end-start-radius: 15px;
+    border-end-end-radius: 15px;
+
+}
+.localInformation span{
+    font-size: 1.1rem;
+}
+.localInformation p{
+    font-weight: 300;
+}
+.localInformation a{
+    color: #E52500;
+}
+
+@media (max-width:890px) {
+    .province_list__wrapper{
+        flex-direction: column;
+    }
+    
+}
+
+@media (max-width:550px) {
+    .province_list__wrapper{
+        flex-direction: column;
+    }
+    .province_list__cityContainer{
+        flex-direction: column;
+        align-items: center;
+    }
+    .province_list__provinceContainer h3{
+        background-color: #ffff;
+        padding:10px ;
+        border-radius: 10px;
+        width: fit-content;
+        min-width: 300px;
+    }
 }

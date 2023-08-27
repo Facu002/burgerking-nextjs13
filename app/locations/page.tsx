@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import styles from './locations.module.css'
-import svg from '../assets/images/png-clipart-flag-of-argentina-map-argentina-team-border-leaf.png';
 
 import provinceData  from "../assets/data/bkLocation.json";
 
@@ -10,12 +9,15 @@ interface CoordinatesClass {
     latitud:  number;
     longitud: number;
 }
+
 interface LocationCoordinates{
-    lat: number;
-    lon: number;
+    latitud: number;
+    longitud: number;
 }
 interface LocalitiesData {
     name: string;
+    maps: string;
+    dir: string;
     coordinates: LocationCoordinates[] | CoordinatesClass;
 }
 interface CityData {
@@ -35,33 +37,47 @@ const provinces : ProvinceData[] = provinceData;
 
 export default function page(params:any) {
     return (
-        <div className={styles.main}>
+    <div className={styles.main}>
 
-            <div className={styles.locationSettings_container}>
-                <div className={styles.location_navigation_container}>
-
-                    <ul className={styles.miniNav}>
+        <div className={styles.location_navigation_container}>
+            <ul className={styles.miniNav}>
                             <li><Link href={'/'}>Home</Link></li>
                             /
                             <li><Link href={'/locations'}>Restaurantes</Link></li>
-                    </ul>
+            </ul>
+            <div className={styles.province_list}>
+                <h2>ELIJA PROVINCIA</h2>
+                <ul>
+                    {
+                    provinces.map((province:any)=>(
+                        <div key={province.urlName} className={styles.province_list__wrapper}>
+                        
+                        <div className={styles.province_list__provinceContainer}>
+                            <h3>{province.name}</h3>
+                            <Image height={300} width={200} src={`https://firebasestorage.googleapis.com/v0/b/bk-next13.appspot.com/o/${province.urlName}.png?alt=media&token=d9aae900-4370-490b-b2ce-6e0abbfb06af`} alt={`${province.urlName}`} />
+                        </div>
 
-                    <div className={styles.city_list}>
-                        <h2>ELIJA PROVINCIA</h2>
-                        <ul>
-                            {
-                                provinces.map((province:any)=>(
-                                    <li key={province.urlName}><Link href={`/locations/${province.urlName}`}>{province.name}</Link></li>
-                                ))
+                            <div className={styles.province_list__cityContainer}>
+                            {province.cities.map((city:any)=>(
+                                <div className={styles.cityInformation}>
+                                    <h3>{city.name}</h3>
+                                    <div className={styles.localInformation_wrapper}>
+                                    {
+                                    city.localidades.map((local:any)=>(
+                                    <div className={styles.localInformation}>
+                                        <span>{local.name}</span>
+                                        <p>{local.dir}</p>
+                                        <a href={local.maps}>Abir Direccion</a>
+                                    </div>))
+                                    }
+                                    </div>
+                                </div>))}
+                            </div>
+                        </div>))
                             }
                         </ul>
                     </div>
-
                 </div>
-                <div className={styles.map_container}>
-                    <Image width="256" alt="Blank Argentina Map" src={svg} />
-                </div>
-            </div>
         </div>
     )
 };

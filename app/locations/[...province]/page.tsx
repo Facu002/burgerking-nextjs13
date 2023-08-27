@@ -4,17 +4,20 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from '../locations.module.css'
 
+
 interface CoordinatesClass {
     latitud:  number;
     longitud: number;
 }
 
 interface LocationCoordinates{
-    lat: number;
-    lon: number;
+    latitud: number;
+    longitud: number;
 }
 interface LocalitiesData {
     name: string;
+    maps: string;
+    dir: string;
     coordinates: LocationCoordinates[] | CoordinatesClass;
 }
 interface CityData {
@@ -74,13 +77,9 @@ export default function ProvinceSelectedComponent({params}:any) {
                                 <div className={styles.city_list}>
                                     <h2>{provinceName}</h2>
                                 {
-                                // selectedProvince.cities.map((city:any)=>(<h2 key={city.urlName}>{city.name}</h2>))
-                                    // <span>{}</span>
                                     foundCity?.localidades.map((zona:any)=>(
                                         <div>
                                             <span key={zona.name}>{zona.name}</span>
-                                            <p>{zona.coordinates.latitud}</p>
-                                            <p>{zona.coordinates.longitud}</p>
                                         </div>
                                     ))
                                 }
@@ -88,7 +87,7 @@ export default function ProvinceSelectedComponent({params}:any) {
                                 </div>
                             </div>
                             <div className={styles.map_container}>
-                                <Image height={300} width={200} src={`https://firebasestorage.googleapis.com/v0/b/bk-next13.appspot.com/o/${selectedProvince.urlName}.png?alt=media&token=d9aae900-4370-490b-b2ce-6e0abbfb06af`} alt={`${selectedProvince.urlName}`} />
+                                <Image className={styles.mapImg} height={300} width={500} src={MC} alt={`${cityUrlName}`} />
                             </div>
                         </>
                         :
