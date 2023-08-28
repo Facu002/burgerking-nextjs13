@@ -160,10 +160,27 @@
     .province_list__wrapper{
         flex-direction: column;
     }
-    
+    .locations_province_list__cityContainer{
+        width: fit-content;
+        margin: 0 auto;
+
+    }
 }
 
 @media (max-width:550px) {
+    .locations_province_list__wrapper{
+        width: fit-content;
+        margin: 0 auto;
+    }
+    .province_list__cityContainer{
+        width: auto;
+        margin: 0 auto;
+    }
+    .locations_province_list__cityContainer{
+        width: fit-content;
+        margin: 0 auto;
+
+    }
     .province_list__wrapper{
         flex-direction: column;
     }
